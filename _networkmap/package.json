@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "@extractus/article-extractor": "^8.0.3",
+        "@extractus/article-extractor": "^8.0.10",
         "linkedom": "^0.16.4"
     },
     "type": "module"
